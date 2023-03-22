@@ -4,3 +4,4 @@ This project uses the NumPy/Pandas and MatPlotLib libraries in Python to create 
 
 Sources:
 https://www.macrotrends.net/countries/DEU/germany/unemployment-rate
+https://www.macrotrends.net/countries/DEU/germany/gdp-gross-domestic-product#:~:text=Germany%20gdp%20for%202021%20was,a%202.17%25%20decline%20from%202018
